@@ -1,0 +1,26 @@
+Paul Songin
+Генетический поиск
+001 search
+Homo sapiens (Human)	6.8 kDa mitochondrial proteolipid
+----------------------------------------
+002 search
+Homo sapiens (Human)	Pre-T/NK cell associated protein 6H9A
+----------------------------------------
+003 search
+NOT FOUND
+----------------------------------------
+004 diff
+amino-acids difference: 81
+----------------------------------------
+005 diff
+amino-acids difference: 115
+----------------------------------------
+006 diff
+amino-acids difference: 56
+----------------------------------------
+007 mode
+amino-acid occurs: A 5
+----------------------------------------
+008 mode
+amino-acid occurs: V 11
+----------------------------------------
